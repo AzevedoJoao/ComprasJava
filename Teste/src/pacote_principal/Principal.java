@@ -14,7 +14,7 @@ public class Principal {
 		do {
 			c1.setValor(valor);
 			i++;
-		}while(i<=quantidade);
+		}while(i<quantidade);
 		
 	}
 }
